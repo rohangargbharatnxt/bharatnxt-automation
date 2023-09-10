@@ -8,7 +8,7 @@ class SimpleFlutterApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'BharatNxt Test App'',
+      title: 'BharatNxt Test App',
       home: Scaffold(
         appBar: AppBar(
           title: Text('BharatNxt Test App'),
