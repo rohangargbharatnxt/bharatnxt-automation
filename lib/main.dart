@@ -8,10 +8,10 @@ class SimpleFlutterApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Simple Flutter App',
+      title: 'BharatNxt Test App'',
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Simple Flutter App'),
+          title: Text('BharatNxt Test App'),
         ),
         body: Center(
           child: Text(
